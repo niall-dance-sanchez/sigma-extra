@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1, 
+        "name": "Niall",
+        "date_of_birth": "2002-10-02",
+        "verified": true
+},
+{
+    "id": 2,
+    "name": "Evil Niall",
+    "date_of_birth": "2002-01-20",
+    "verified": false
+}
+]

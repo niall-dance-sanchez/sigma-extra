@@ -1,0 +1,8 @@
+ipykernel
+pandas
+altair
+scikit-learn
+matplotlib
+vegafusion
+pyarrow
+seaborn
